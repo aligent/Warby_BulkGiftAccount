@@ -12,7 +12,7 @@ After clicking 'add bulk' a user would be directed to a section where they can a
 ============
 Installation
 ============
-1. Clone repository or download it locally.
+1. Clone repository or download files locally.
 2. Copy files from 'Bulk_GiftCards_Module/App' into '/App' folder in the magento instance.
 2. Clear cache(s).
 3. Go to: Admin Panel->Customers->Gift Card Accounts.
