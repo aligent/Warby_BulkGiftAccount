@@ -1,0 +1,5 @@
+# Warby_GiftCardAccount Module
+
+code                        app/code/local/Warby/GiftCardAccount/
+Warby_GiftCardAccount.xml   app/etc/modules/Warby_GiftCardAccount.xml
+
