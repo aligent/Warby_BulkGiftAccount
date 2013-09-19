@@ -29,6 +29,8 @@ BulkGift adds a custom admin panel to the Gift Cards admin page for users to add
 - In the **Gift Cards** section, go to the **Gift Card Account General Settings** subsection.
 - Update the Bulk Create Limit
 
+![Set yourself before you wreck yourself](http://i.imgur.com/EbJ9A4V.png)
+
 ## Licensing/Legal
 
 [MIT](http://opensource.org/licenses/MIT)
