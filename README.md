@@ -1,4 +1,4 @@
-# Warby Parker - BulkGiftAccount Module
+# BulkGiftAccount Module
 
 **Author**: Warby Parker (Igor Finchuk & Gershon Herczeg)
 
@@ -6,10 +6,11 @@
 
 ## Description
 
-This module is built upon the existing gift-card functionality available in Magento Enterprise Edition. 
+This module is built upon the existing gift-card functionality available in [Magento Enterprise Edition](http://www.magentocommerce.com/product/enterprise-edition). 
 
 BulkGift adds a custom admin panel to the Gift Cards admin page for users to add gift cards in bulk.
 
+![Yo dawg, I herd u liked gift cards](http://cl.ly/image/3Y241R0d0o1f)
 ## Dependencies 
 
 - [modman](https://github.com/colinmollenhour/modman) for module installation.
