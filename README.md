@@ -1,7 +1,8 @@
-# Warby Parker - BulkGift
+# Warby Parker - BulkGiftAccount Module
 
 **Author**: Warby Parker (Igor Finchuk & Gershon Herczeg)
-Version: 0.1.2
+
+**Version**: 0.1.2
 
 ## Description
 
