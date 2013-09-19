@@ -10,7 +10,7 @@ This module is built upon the existing gift-card functionality available in [Mag
 
 BulkGift adds a custom admin panel to the Gift Cards admin page for users to add gift cards in bulk.
 
-![Yo dawg, I herd u liked gift cards](http://cl.ly/image/3Y241R0d0o1f)
+![Yo dawg, I herd u liked gift cards](http://i.imgur.com/w9Zidqr.png)
 ## Dependencies 
 
 - [modman](https://github.com/colinmollenhour/modman) for module installation.
