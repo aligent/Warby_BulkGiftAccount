@@ -17,9 +17,9 @@ BulkGift adds a custom admin panel to the Gift Cards admin page for users to add
 
 ## Installation
 
-    $ cd /var/www         # Magento root
-    $ modman init         # Initialize modman in your Magento root
-    $ modman clone git@github.com:jeffreylo/BulkGift.git
+    $ cd /var/www                                         
+    $ modman init                                         
+    $ modman clone git@github.com:WarbyParker/Warby_BulkGiftAccount.git
 
 ## Configuration
 
