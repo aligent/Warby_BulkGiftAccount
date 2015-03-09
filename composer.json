@@ -1,0 +1,9 @@
+{
+    "name":"WarbyParker/Warby_BulkGiftAccount",
+    "type":"magento-module",
+    "license":"MIT",
+    "homepage":"https://github.com/WarbyParker/Phoenix_VarnishCache",
+    "description":"Magento extension to control Varnish and trigger cache invalidation programatically.",
+    "require":{
+    }
+}
